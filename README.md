@@ -8,7 +8,7 @@ AndroidMaps is an app that provides you the legacy maps service from older andro
 3. Install the .apk file.
 4. Open the app and enjoy!
 
-This app is yet to be published on Google Play Store.
+This app is yet to be published on the Google Play Store.
 
 # For the developers:
 
