@@ -17,7 +17,7 @@ Originally built with Android Studio and packaged, remaked and republished into 
 Download the .aia file and open the project in https://code.appinventor.mit.edu
 
 You can edit this as per your choice and build the APK as you want.
-<br>The image of blocks is provided as a reference.
+<br>The images of blocks and components is provided as a reference.
 
 # NOTE: This app may contain bugs and is featureless as it is in development.
 
