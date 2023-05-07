@@ -3,7 +3,7 @@ AndroidMaps is an app that provides you the legacy maps service from older andro
 
 *How to use:*
 
-1. Download the .apk file from releases.
+1. Download the .apk file from <a href=https://https://www.github.com/GitHubUser331/AndroidMaps/releases>releases.</a>
 2. Go to Settings < Permission < Install Unknown Apps and enable it.
 3. Install the .apk file.
 4. Open the app and enjoy!
