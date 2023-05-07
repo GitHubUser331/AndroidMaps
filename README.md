@@ -14,7 +14,7 @@ This app is yet to be published on the Google Play Store.
 
 This app is open-source and it is based on MIT's AppInventor source code. The source code is available.
 Originally built with Android Studio and packaged, remaked and republished into .aia (AppInventor Project).
-Download the .aia file and open the project in https://code.appiventor.mit.edu
+Download the .aia file and open the project in https://code.appinventor.mit.edu
 
 You can edit this as per your choice and build the APK as you want.
 <br>The image of blocks is provided as a reference.
