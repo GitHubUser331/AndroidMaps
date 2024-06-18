@@ -12,7 +12,7 @@ This app is yet to be published on the Google Play Store.
 
 # For the developers:
 
-This app is open-source and is editable and modifiable under the MIT License provided. You can download the source code in the releases section or by using the green "Code" button and  then clicking on the "Download ZIP" button.
+This app is open-source and is editable and modifiable under the MIT License provided. You can download the source code from the releases section or by using the green "Code" button and then clicking on the "Download ZIP" button.
 
 # NOTE: This app may contain bugs and is featureless as it is in development.
 
